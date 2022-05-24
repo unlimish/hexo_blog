@@ -1925,6 +1925,11 @@
     "picocolors" "^1.0.0"
     "serve-static" "^1.14.1"
 
+"hexo-tag-twitter@^1.0.2":
+  "integrity" "sha512-X4i4XEHt5gFolmKyehwOpO/rFa3rDurk6xycDO4c71lFwcgAxuHlXGQnYi82jF3wI7qmPnAxkvvSYuRtHqB0KA=="
+  "resolved" "https://registry.npmjs.org/hexo-tag-twitter/-/hexo-tag-twitter-1.0.2.tgz"
+  "version" "1.0.2"
+
 "hexo-theme-fluid@^1.9.0":
   "integrity" "sha512-kPIYtXhDMV3yJG2W63FnLY19gNHsHYHe8SXTMRoVfFtze9eAfXPzuU55ZD+6LIGpxYlS00Dinzdl/aG0JMQLgg=="
   "resolved" "https://registry.npmjs.org/hexo-theme-fluid/-/hexo-theme-fluid-1.9.0.tgz"
