@@ -347,7 +347,7 @@ navbar:
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
-    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
+    # - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
@@ -504,7 +504,7 @@ index:
   # Meta information of post
   post_meta:
     date: true
-    category: true
+    category: false
     tag: true
 
   # 文章通过 sticky 排序后，在首页文章标题前显示图标
@@ -595,7 +595,7 @@ post:
 
     # 开启后，只有在文章 Front-matter 里指定 `category_bar: true` 才会展示分类，也可以通过 `category_bar: ["分类A"]` 来指定分类
     # If true, only set `category_bar: true` in Front-matter will enable sidebar of category, also set `category_bar: ["CategoryA"]` to specify categories
-    specific: true
+    specific: false
 
     # 置于板块的左侧或右侧
     # place in the board
@@ -866,7 +866,7 @@ archive:
 # Category Page
 #---------------------------
 category:
-  enable: true
+  enable: false
   banner_img: /img/banner.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.7
@@ -897,7 +897,7 @@ category:
 tag:
   enable: true
   banner_img: /img/banner.jpg
-  banner_img_height: 80
+  banner_img_height: 60
   banner_mask_alpha: 0.7
   tagcloud:
     min_font: 15
