@@ -4,8 +4,6 @@ date: 2020-02-02 11:20
 tags: [散文, 考察, 思う, 解釈]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cGSNaQ8EoS0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-
 平面世界から読んだ立体で見えない世界のと
 
 <!-- more -->
